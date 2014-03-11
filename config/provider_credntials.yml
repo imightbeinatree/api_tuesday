@@ -1,0 +1,19 @@
+    test:
+      facebook:
+        app_id: "hhhh"
+        app_secret: "jjjjj"
+
+    development:
+      facebook:
+        app_id: "hhhh"
+        app_secret: "jjjjj"
+        
+    staging:
+      facebook:
+        app_id: "hhhh"
+        app_secret: "jjjjj"
+
+    production:
+      facebook:
+        app_id: "hhhh"
+        app_secret: "jjjjj"
